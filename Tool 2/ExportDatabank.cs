@@ -20,12 +20,12 @@ namespace Tool_2
             v.MaakGemeentes();
             v.MaakProvincies();
             DataBeheer db = new DataBeheer(@"Data Source=MSI\SQLEXPRESS;Initial Catalog=Straten;Integrated Security=True;Pooling=False");
-            //db.VoegProvincieToe();
-            //db.VoegGemeentesToe();
-            //db.VoegStratenToe();
-            //db.VoegSegmentenToe();
-            //db.RelatieProvincieGemeente();
-            //db.RelatieGemeenteStraat();
+            db.VoegProvincieToe();
+            db.VoegGemeentesToe();
+            db.VoegStratenToe();
+            db.VoegSegmentenToe();
+            db.RelatieProvincieGemeente();
+            db.RelatieGemeenteStraat();
             db.RelatieStraatSegment();
 
 

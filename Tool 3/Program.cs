@@ -8,7 +8,7 @@ namespace Tool_3
         {
             Console.WriteLine("Hello World!");
             DataBeheer db = new DataBeheer(@"Data Source=MSI\SQLEXPRESS;Initial Catalog=Straten;Integrated Security=True;Pooling=False");
-            //db.GetGemeenteNaamID("Ronse");
+            db.GetGemeenteNaamID("Ronse");
             db.GetStraatByID(512);
             db.GetStraatEnGemeenteByID(512);
             db.GetStraatnaamByGemeente("Ronse");
