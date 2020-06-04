@@ -1,0 +1,675 @@
+<Totaal aantal straten> : 93877
+Aantal straten per provincie:
+*   <Antwerpen>: 18757
+*   <Vlaams-Brabant>: 13190
+*   <West-Vlaanderen>: 12290
+*   <Oost-Vlaanderen>: 15939
+*   <>: 0
+Straatinfo <Antwerpen>
+   *  <Aartselaar> : aantal straten: 123, totale lengte: 138562.65382782434
+        *   Kortste straat: 491208 Laar afstand: 1.1760068017993712
+        *   langste straat: 446812 Boomsesteenweg afstand: 610.897603754959
+   *  <Antwerpen> : aantal straten: 3360, totale lengte: 3225569.774050515
+        *   Kortste straat: 1056200 Utrechtstraat afstand: 0.8303544772627975
+        *   langste straat: 555505 Havenweg afstand: 3234.7135445160234
+   *  <Boechout> : aantal straten: 167, totale lengte: 213799.02150198177
+        *   Kortste straat: 432498 Nieuweweg afstand: 1.1097265409771582
+        *   langste straat: 521672 Pietingbaan afstand: 943.160418399307
+   *  <Boom> : aantal straten: 158, totale lengte: 148816.5667388585
+        *   Kortste straat: 721872 Beukenlaan afstand: 1.6902550072209641
+        *   langste straat: 646275 Antwerpsestraat afstand: 486.0463967406084
+   *  <Borsbeek> : aantal straten: 78, totale lengte: 91844.23605192888
+        *   Kortste straat: 1055946 Sprinkhaanveldestraat afstand: 1.5360831511893036
+        *   langste straat: 1053799 Frans Beirenslaan afstand: 705.567681928772
+   *  <Brasschaat> : aantal straten: 324, totale lengte: 490013.3681251504
+        *   Kortste straat: 1056358 Zand afstand: 1.6980083650633921
+        *   langste straat: 492939 4 St.-Job-in-'t-Goor afstand: 859.4146392161624
+   *  <Brecht> : aantal straten: 482, totale lengte: 667176.7508245342
+        *   Kortste straat: 543882 Veldstraat afstand: 1.2728314900603075
+        *   langste straat: 140843 Lochtsebaan afstand: 1334.9527375708806
+   *  <Essen> : aantal straten: 257, totale lengte: 411985.9888815017
+        *   Kortste straat: 558947 Nolsebaan afstand: 1.2114920553795023
+        *   langste straat: 571117 Kasteelbeemd afstand: 1093.900298640771
+   *  <Hemiksem> : aantal straten: 104, totale lengte: 68213.12034030216
+        *   Kortste straat: 525776 Titanstraat afstand: 4.014679189728827
+        *   langste straat: 544254 Bredestraat afstand: 391.14192434736094
+   *  <Hove> : aantal straten: 106, totale lengte: 93269.91220945075
+        *   Kortste straat: 529761 Beekhoekstraat afstand: 1.0584687030345445
+        *   langste straat: 500149 Mechelsesteenweg afstand: 500.84172823399905
+   *  <Kalmthout> : aantal straten: 269, totale lengte: 402683.9038086303
+        *   Kortste straat: 412823 Heuvelspad afstand: 1.5448472387701695
+        *   langste straat: 403308 Leyterstraat afstand: 1057.265635710059
+   *  <Kapellen> : aantal straten: 309, totale lengte: 399367.056864292
+        *   Kortste straat: 503242 Mispelaarlaan afstand: 3.0817543667617486
+        *   langste straat: 559599 Oude Galgenstraat afstand: 856.1208709419311
+   *  <Kontich> : aantal straten: 220, totale lengte: 270278.3093782252
+        *   Kortste straat: 118246 Wilgstuk afstand: 1.370607528252838
+        *   langste straat: 526567 Pauwhoevestraat afstand: 593.67741390423
+   *  <Lint> : aantal straten: 94, totale lengte: 81404.25074974299
+        *   Kortste straat: 455220 Luitersheide afstand: 1.3386933932237668
+        *   langste straat: 564221 Bossenstraat afstand: 581.5400804980258
+   *  <Mortsel> : aantal straten: 164, totale lengte: 166007.00839438455
+        *   Kortste straat: 417660 Neerhoevelaan afstand: 1.896439296085805
+        *   langste straat: 417113 Gasthuishoeven afstand: 598.0215347282738
+   *  <Niel> : aantal straten: 105, totale lengte: 68518.86049975951
+        *   Kortste straat: 628103 Abel Janssenslaan afstand: 2.4203305577096423
+        *   langste straat: 772029 Walenhof afstand: 559.9937401490056
+   *  <Ranst> : aantal straten: 253, totale lengte: 368527.3231120468
+        *   Kortste straat: 448824 Achterlo afstand: 1.0980204930132411
+        *   langste straat: 403343 Hallebaan afstand: 797.0051931895641
+   *  <Rumst> : aantal straten: 176, totale lengte: 206014.55545935986
+        *   Kortste straat: 602119 Pieter Breughellaan afstand: 1.266379480178767
+        *   langste straat: 773692 Steenweg op Waarloos afstand: 597.2580695214485
+   *  <Schelle> : aantal straten: 113, totale lengte: 91336.31581464977
+        *   Kortste straat: 706164 Tolhuisstraat afstand: 1.265872821953081
+        *   langste straat: 514038 Molenberglei afstand: 589.7695524524812
+   *  <Schilde> : aantal straten: 291, totale lengte: 418823.39524423814
+        *   Kortste straat: 547675 Oudebaan afstand: 1.1229269769752441
+        *   langste straat: 473681 Jagersdreef afstand: 874.8171804193014
+   *  <Schoten> : aantal straten: 360, totale lengte: 427935.0988566406
+        *   Kortste straat: 506014 Toekomstlaan afstand: 1.2280052886562793
+        *   langste straat: 457850 Kanaaldijk afstand: 1894.1117208851667
+   *  <Stabroek> : aantal straten: 155, totale lengte: 187729.56004591784
+        *   Kortste straat: 419443 Witvenstraat afstand: 1.5220594624392207
+        *   langste straat: 445442 Vleminckweg afstand: 1352.366271145257
+   *  <Wuustwezel> : aantal straten: 389, totale lengte: 655433.5541646694
+        *   Kortste straat: 471697 Blekenberg afstand: 1.170686124649027
+        *   langste straat: 451473 Begijnemoerenweg afstand: 1164.2607096726667
+   *  <Zandhoven> : aantal straten: 210, totale lengte: 394027.6966571509
+        *   Kortste straat: 568133 Hallebaan afstand: 1.1872657666937674
+        *   langste straat: 451970 Jagerslaan afstand: 1802.6541631362143
+   *  <Zoersel> : aantal straten: 313, totale lengte: 416655.1287385932
+        *   Kortste straat: 403412 Berkenlaan afstand: 1.1026572451579455
+        *   langste straat: 460346 Schriekbos afstand: 680.7986206633657
+   *  <Zwijndrecht> : aantal straten: 163, totale lengte: 185124.91488858894
+        *   Kortste straat: 465748 Kloosterstraat afstand: 1.1669190195757473
+        *   langste straat: 1022487 Keetberglaan afstand: 1090.8165402048858
+   *  <Malle> : aantal straten: 221, totale lengte: 340201.1994597836
+        *   Kortste straat: 408235 Wijngaardstraat afstand: 1.2457451609050578
+        *   langste straat: 429037 Sint Jobbaan afstand: 701.6247373655117
+   *  <Berlaar> : aantal straten: 123, totale lengte: 218730.22568862786
+        *   Kortste straat: 421413 Melkouwen afstand: 1.1844091333075923
+        *   langste straat: 493776 Liersesteenweg afstand: 678.2044556867972
+   *  <Bonheiden> : aantal straten: 217, totale lengte: 293015.84206960665
+        *   Kortste straat: 571554 Plaslei afstand: 2.1560160009070155
+        *   langste straat: 601793 Groothoeveweg afstand: 594.6635940247007
+   *  <Bornem> : aantal straten: 234, totale lengte: 361532.70883583045
+        *   Kortste straat: 633369 Sint-Amandsesteenweg afstand: 1.6226536888042584
+        *   langste straat: 650946 Rijksweg afstand: 1290.2169157512205
+   *  <Duffel> : aantal straten: 156, totale lengte: 243272.42847686785
+        *   Kortste straat: 718548 Kremerslei afstand: 1.7712052419436521
+        *   langste straat: 979840 Binnenweg afstand: 1077.1694662008947
+   *  <Lier> : aantal straten: 360, totale lengte: 532125.0114833917
+        *   Kortste straat: 425761 Hagenbroeksesteenweg afstand: 1.1562222926683543
+        *   langste straat: 979314 Jagersdreef afstand: 2007.3394857003925
+   *  <Mechelen> : aantal straten: 814, totale lengte: 808391.3271219595
+        *   Kortste straat: 593091 Magdalenasteenweg afstand: 1.6485690752359266
+        *   langste straat: 607341 Zennegatvaart afstand: 1541.56927812316
+   *  <Nijlen> : aantal straten: 258, totale lengte: 383954.36228567135
+        *   Kortste straat: 415507 Molenstraat afstand: 1.0792414030070794
+        *   langste straat: 558150 Oude Bevelsesteenweg afstand: 839.2426659676909
+   *  <Putte> : aantal straten: 241, totale lengte: 393940.435643517
+        *   Kortste straat: 422254 Bergstraatje afstand: 2.666756832569005
+        *   langste straat: 555181 Steenbeek afstand: 879.6661882852868
+   *  <Puurs> : aantal straten: 0, totale lengte: 0
+        *   Kortste straat: 0  afstand: 1000000
+        *   langste straat: 0  afstand: 0
+   *  <Sint-Amands> : aantal straten: 0, totale lengte: 0
+        *   Kortste straat: 0  afstand: 1000000
+        *   langste straat: 0  afstand: 0
+   *  <Sint-Katelijne-Waver> : aantal straten: 237, totale lengte: 351495.8621910632
+        *   Kortste straat: 582956 Begoniastraat afstand: 1.6544394802056648
+        *   langste straat: 758557 Heisbroekweg afstand: 830.6881148161542
+   *  <Willebroek> : aantal straten: 318, totale lengte: 317968.87644838716
+        *   Kortste straat: 591918 Schuttersstraat afstand: 1.621755219598718
+        *   langste straat: 627065 Koning Boudewijnlaan afstand: 2730.752683236429
+   *  <Arendonk> : aantal straten: 146, totale lengte: 301636.9596414157
+        *   Kortste straat: 389541 De Lusthoven afstand: 1.0917160807131276
+        *   langste straat: 346339 Onder d'Eike afstand: 2636.744180696633
+   *  <Balen> : aantal straten: 378, totale lengte: 619175.1043742279
+        *   Kortste straat: 291002 Hoogschoors afstand: 1.2880097040253882
+        *   langste straat: 330691 Antverpialaan afstand: 1173.7581158150333
+   *  <Beerse> : aantal straten: 262, totale lengte: 332362.13450741844
+        *   Kortste straat: 426145 Salamanderstraat afstand: 1.7449521469101275
+        *   langste straat: 441650 Beersedijk afstand: 1524.0155041067046
+   *  <Dessel> : aantal straten: 156, totale lengte: 222932.68617674505
+        *   Kortste straat: 283972 Nieuwedijk afstand: 1.2456596660410704
+        *   langste straat: 379958 Nieuwedijk afstand: 1439.2870495986806
+   *  <Geel> : aantal straten: 502, totale lengte: 976506.131100861
+        *   Kortste straat: 556019 Stelensehulst afstand: 1.2508461136399736
+        *   langste straat: 389176 Blokstraat afstand: 2259.4554813249806
+   *  <Grobbendonk> : aantal straten: 247, totale lengte: 289594.29581895255
+        *   Kortste straat: 403829 Astridplein afstand: 2.917987321449392
+        *   langste straat: 441153 Jagersdreef afstand: 2472.9790781416236
+   *  <Herentals> : aantal straten: 383, totale lengte: 535071.251949298
+        *   Kortste straat: 565064 Ring afstand: 1.0837273601187738
+        *   langste straat: 441153 Jagersdreef afstand: 2472.9790781416236
+   *  <Herenthout> : aantal straten: 99, totale lengte: 197290.23831326814
+        *   Kortste straat: 485037 Niemandshoek afstand: 1.1031047068494217
+        *   langste straat: 101159 Itegemse Steenweg afstand: 705.9153984894856
+   *  <Herselt> : aantal straten: 174, totale lengte: 465239.290410516
+        *   Kortste straat: 500438 Diestsebaan afstand: 3.281717842252188
+        *   langste straat: 499535 Visvijverstraat afstand: 611.328223130886
+   *  <Hulshout> : aantal straten: 166, totale lengte: 189818.4289789772
+        *   Kortste straat: 490178 Tarwestraat afstand: 3.0027475717771477
+        *   langste straat: 451373 Bertelsbroekstraat afstand: 741.439857791141
+   *  <Kasterlee> : aantal straten: 391, totale lengte: 632575.3486143898
+        *   Kortste straat: 89376 Potaardenberg afstand: 1.5731910254460364
+        *   langste straat: 531379 Noord-Zuidlaan afstand: 1423.0633923082662
+   *  <Lille> : aantal straten: 291, totale lengte: 553714.9221903962
+        *   Kortste straat: 476183 Rozenlaan afstand: 1.127128209569605
+        *   langste straat: 408578 Dingdongen afstand: 932.2146393345454
+   *  <Meerhout> : aantal straten: 203, totale lengte: 325441.2290376598
+        *   Kortste straat: 287876 Heikant afstand: 1.2707277431110973
+        *   langste straat: 354941 Edeldomdijk afstand: 773.0730651783896
+   *  <Merksplas> : aantal straten: 174, totale lengte: 301188.024410706
+        *   Kortste straat: 417385 Kloosterstraat afstand: 1.3041625670763435
+        *   langste straat: 447356 Pampaweg afstand: 1088.036163089936
+   *  <Mol> : aantal straten: 518, totale lengte: 831646.3901779291
+        *   Kortste straat: 322341 Boeretang afstand: 1.5184413105742756
+        *   langste straat: 330811 Sas VI afstand: 1897.551218467443
+   *  <Olen> : aantal straten: 219, totale lengte: 271081.8164571358
+        *   Kortste straat: 563423 Kasteelstraat afstand: 1.0666813030449591
+        *   langste straat: 541803 Sluizenweg afstand: 968.496542437027
+   *  <Oud-Turnhout> : aantal straten: 236, totale lengte: 349056.24787174823
+        *   Kortste straat: 394120 Oude Arendonkse Baan afstand: 1.5472795459774829
+        *   langste straat: 399880 Arselt afstand: 1283.3031361565183
+   *  <Ravels> : aantal straten: 214, totale lengte: 460492.8173448889
+        *   Kortste straat: 369293 Aarledijk afstand: 1.1840798125561034
+        *   langste straat: 979778 Achterlaar afstand: 821.8480358859284
+   *  <Retie> : aantal straten: 232, totale lengte: 329219.4218728965
+        *   Kortste straat: 352276 Grachtstraat afstand: 0.6095326096855659
+        *   langste straat: 294703 Hoeven afstand: 862.3185139128731
+   *  <Rijkevorsel> : aantal straten: 222, totale lengte: 299988.40185816184
+        *   Kortste straat: 439445 Grote Driesen afstand: 2.40851323750088
+        *   langste straat: 477964 Stevennekens afstand: 859.6125633574406
+   *  <Turnhout> : aantal straten: 404, totale lengte: 476511.11184538377
+        *   Kortste straat: 432149 Tijkwerkersstraat afstand: 1.7227309694639417
+        *   langste straat: 442477 Watertappingstraat afstand: 1295.878374875933
+   *  <Vorselaar> : aantal straten: 105, totale lengte: 171466.9092505307
+        *   Kortste straat: 411731 Heirbaan afstand: 1.259498315748867
+        *   langste straat: 426369 Vispluk afstand: 805.5270909047498
+   *  <Vosselaar> : aantal straten: 178, totale lengte: 174135.22573899207
+        *   Kortste straat: 421277 Lorkenlaan afstand: 1.062481998798253
+        *   langste straat: 484242 Boskant afstand: 689.4724809158862
+   *  <Westerlo> : aantal straten: 415, totale lengte: 566748.6217556667
+        *   Kortste straat: 503551 August Cannaertsstraat afstand: 1.0798393341862276
+        *   langste straat: 447267 Hondseinde afstand: 807.4281115635803
+   *  <Laakdal> : aantal straten: 221, totale lengte: 370464.46959181514
+        *   Kortste straat: 547972 Eindhoutdorp afstand: 1.1319474328228007
+        *   langste straat: 1055452 Biezenhoed afstand: 973.8050420445076
+   *  <Puurs-Sint-Amands> : aantal straten: 299, totale lengte: 476314.93363238045
+        *   Kortste straat: 579636 Pullaarsteenweg afstand: 1.8915839913610097
+        *   langste straat: 630249 Rijksweg afstand: 2001.9321438727716
+Straatinfo <Vlaams-Brabant>
+   *  <Asse> : aantal straten: 374, totale lengte: 455078.87686002324
+        *   Kortste straat: 770708 Marlier afstand: 1.876896377971883
+        *   langste straat: 636536 Domberg afstand: 913.6227871915851
+   *  <Beersel> : aantal straten: 374, totale lengte: 452240.4698720258
+        *   Kortste straat: 635329 Prins Boudewijnlaan afstand: 1.291508035660316
+        *   langste straat: 613992 Vaartweg afstand: 1320.3409136073442
+   *  <Bever> : aantal straten: 22, totale lengte: 116331.83190068539
+        *   Kortste straat: 590065 Bloemendael afstand: 3.2506105580533133
+        *   langste straat: 576299 Romont afstand: 681.9024668016398
+   *  <Dilbeek> : aantal straten: 498, totale lengte: 551313.43724841
+        *   Kortste straat: 1113184 Harmonielaan afstand: 1.5901035618157382
+        *   langste straat: 661314 Sint-Annastraat afstand: 1080.313265591329
+   *  <Galmaarden> : aantal straten: 109, totale lengte: 228720.34422856718
+        *   Kortste straat: 646048 Hollestraat afstand: 3.386084758139931
+        *   langste straat: 672801 Hazendries afstand: 888.641837932267
+   *  <Gooik> : aantal straten: 145, totale lengte: 272039.7607684101
+        *   Kortste straat: 582751 Hazelaarswijk afstand: 1.318660306965986
+        *   langste straat: 781365 Oude Geraardsbergse baan afstand: 966.2900366275286
+   *  <Halle> : aantal straten: 447, totale lengte: 502253.07619022706
+        *   Kortste straat: 635329 Kamerijkbos afstand: 1.291508035660316
+        *   langste straat: 627305 Willamekaai afstand: 846.3609267697807
+   *  <Herne> : aantal straten: 117, totale lengte: 280129.22076269274
+        *   Kortste straat: 649344 Markstraat afstand: 3.370936071111
+        *   langste straat: 584991 Grotestraat afstand: 995.7573949568188
+   *  <Hoeilaart> : aantal straten: 188, totale lengte: 235223.0906446171
+        *   Kortste straat: 628144 Josse Biesmansstraat afstand: 1.707568149060427
+        *   langste straat: 627415 Sint Jansberglaan afstand: 1252.373618710717
+   *  <Kampenhout> : aantal straten: 255, totale lengte: 364952.5038796833
+        *   Kortste straat: 560650 Stationsstraat afstand: 2.8712913519353793
+        *   langste straat: 121698 Bulsomwegel afstand: 750.301196935276
+   *  <Kapelle-op-den-Bos> : aantal straten: 137, totale lengte: 159987.12276162533
+        *   Kortste straat: 722872 Oudstrijdersstraat afstand: 1.5003202990493145
+        *   langste straat: 609712 Vaartdijk afstand: 878.8100017814111
+   *  <Liedekerke> : aantal straten: 143, totale lengte: 130592.55591360347
+        *   Kortste straat: 602281 Cathemlindeweg afstand: 1.4434226658190787
+        *   langste straat: 623205 Bosbaan afstand: 638.5606219778366
+   *  <Londerzeel> : aantal straten: 201, totale lengte: 368562.64612251206
+        *   Kortste straat: 580517 Lemmeken afstand: 2.1020951472325087
+        *   langste straat: 662211 Autostrade afstand: 1457.6630591473718
+   *  <Machelen> : aantal straten: 179, totale lengte: 199113.94286999837
+        *   Kortste straat: 765276 Peutiesesteenweg afstand: 3.129014061483196
+        *   langste straat: 710746 Haachtsesteenweg afstand: 972.0772764993109
+   *  <Meise> : aantal straten: 294, totale lengte: 354027.3576894135
+        *   Kortste straat: 597227 Karel Baudewijnslaan afstand: 2.4290265537887605
+        *   langste straat: 594821 Steenhuffelstraat afstand: 755.4188779867405
+   *  <Merchtem> : aantal straten: 161, totale lengte: 321542.6079371685
+        *   Kortste straat: 675979 Eeckhoutweg afstand: 1.7636499081706185
+        *   langste straat: 605924 Driesenweg afstand: 958.0390282904473
+   *  <Opwijk> : aantal straten: 137, totale lengte: 202818.99284010255
+        *   Kortste straat: 610125 Waaienberg afstand: 1.841211826299703
+        *   langste straat: 627278 Hollestraat afstand: 684.1835897172031
+   *  <Overijse> : aantal straten: 385, totale lengte: 472929.7675853433
+        *   Kortste straat: 530116 Duisburgsesteenweg afstand: 1.3757895938540863
+        *   langste straat: 565342 Moskesstraat afstand: 1039.8752642495126
+   *  <Sint-Pieters-Leeuw> : aantal straten: 355, totale lengte: 450761.6797135804
+        *   Kortste straat: 576394 Oude Brusselbaan afstand: 3.299554667740877
+        *   langste straat: 648185 Vaartdijk afstand: 1469.8794334779445
+   *  <Steenokkerzeel> : aantal straten: 227, totale lengte: 241885.34976858273
+        *   Kortste straat: 486432 Abelendreef afstand: 2.9328163979805577
+        *   langste straat: 496406 Tervuursesteenweg afstand: 1256.3622428060055
+   *  <Ternat> : aantal straten: 184, totale lengte: 253016.59997802833
+        *   Kortste straat: 597133 Muilemlaan afstand: 2.9081727941935696
+        *   langste straat: 586206 Potgieter afstand: 840.1812662073593
+   *  <Vilvoorde> : aantal straten: 405, totale lengte: 372118.0738611757
+        *   Kortste straat: 642796 Mechelsesteenweg afstand: 2.1654553763374658
+        *   langste straat: 640490 Woluwelaan afstand: 1347.5877691040569
+   *  <Zaventem> : aantal straten: 358, totale lengte: 433942.73740722064
+        *   Kortste straat: 762544 de Selliersstraat afstand: 1.219576974301474
+        *   langste straat: 512259 Oude Keulseweg afstand: 980.4237844204173
+   *  <Zemst> : aantal straten: 351, totale lengte: 453446.28359679517
+        *   Kortste straat: 1006383 Leliestraat afstand: 2.6851136136665437
+        *   langste straat: 629925 Sluisweg afstand: 1133.4971439453734
+   *  <Roosdaal> : aantal straten: 191, totale lengte: 220573.83224711585
+        *   Kortste straat: 1035764 Molenveldstraat afstand: 2.181812889869984
+        *   langste straat: 601921 Reigersbaan afstand: 833.2701127263815
+   *  <Kraainem> : aantal straten: 170, totale lengte: 143220.3144355594
+        *   Kortste straat: 618995 Gouvernementsweg afstand: 2.4878878596609746
+        *   langste straat: 438601 Oude Baan afstand: 704.8390881982742
+   *  <Linkebeek> : aantal straten: 71, totale lengte: 62670.21701559456
+        *   Kortste straat: 588097 Wouterbos afstand: 2.37590572162265
+        *   langste straat: 1083830 Kautergat afstand: 924.9801333822411
+   *  <Sint-Genesius-Rode> : aantal straten: 243, totale lengte: 289125.238802376
+        *   Kortste straat: 692656 Merellaan afstand: 3.1279733025520238
+        *   langste straat: 597121 Sint-Gertrudis afstand: 892.6858650755814
+   *  <Wemmel> : aantal straten: 141, totale lengte: 128362.77588909949
+        *   Kortste straat: 721406 Steenweg op Merchtem afstand: 2.8091116078968277
+        *   langste straat: 604477 Hammestraat afstand: 530.1710666795952
+   *  <Wezembeek-Oppem> : aantal straten: 163, totale lengte: 151568.89332421764
+        *   Kortste straat: 605243 Driebunderweg afstand: 1.5268349650406927
+        *   langste straat: 590695 Grote Oppemweg afstand: 651.9168477741692
+   *  <Lennik> : aantal straten: 171, totale lengte: 295171.37344902864
+        *   Kortste straat: 579832 Steenstraat afstand: 2.2455059532462154
+        *   langste straat: 593105 Rooststraat afstand: 931.6725265950208
+   *  <Aarschot> : aantal straten: 443, totale lengte: 674874.3923534737
+        *   Kortste straat: 440645 Sluiskensweg afstand: 1.8664238515948062
+        *   langste straat: 521941 Loopgatstraat afstand: 654.5128969131462
+   *  <Bekkevoort> : aantal straten: 88, totale lengte: 245253.84472591733
+        *   Kortste straat: 338627 Struikstraat afstand: 1.7051275610854641
+        *   langste straat: 358383 Elzenhout afstand: 813.4527837536855
+   *  <Bertem> : aantal straten: 151, totale lengte: 184730.97796022778
+        *   Kortste straat: 538604 Bosstraat afstand: 1.663331596322943
+        *   langste straat: 413534 Baanakkerweg afstand: 1111.9716719992387
+   *  <Bierbeek> : aantal straten: 154, totale lengte: 297160.99316007126
+        *   Kortste straat: 521933 Oude Geldenaaksebaan afstand: 1.831387728546354
+        *   langste straat: 414047 Spiegelbosstraat afstand: 1361.7738581976494
+   *  <Boortmeerbeek> : aantal straten: 190, totale lengte: 221704.77946154805
+        *   Kortste straat: 459298 Robensvenweg afstand: 3.4231710483548774
+        *   langste straat: 728300 Sas afstand: 1172.3674190076295
+   *  <Boutersem> : aantal straten: 115, totale lengte: 194603.08473241335
+        *   Kortste straat: 330741 Lubbeeksestraat afstand: 2.6714146040614963
+        *   langste straat: 357253 Oude Baan afstand: 787.0532478108946
+   *  <Diest> : aantal straten: 357, totale lengte: 503128.2120388789
+        *   Kortste straat: 343435 Kloosterbergstraat afstand: 1.1725224929424283
+        *   langste straat: 396352 Postbaan afstand: 906.235469307908
+   *  <Geetbets> : aantal straten: 71, totale lengte: 186056.06540692583
+        *   Kortste straat: 396280 Hulsbeekstraat afstand: 1.295834094791176
+        *   langste straat: 391988 Kasteellaan afstand: 783.5559784035347
+   *  <Haacht> : aantal straten: 204, totale lengte: 326335.3986997278
+        *   Kortste straat: 558264 Sint-Adriaanstraat afstand: 2.7626744274023007
+        *   langste straat: 417498 Vaartdijk afstand: 1142.4147915395172
+   *  <Herent> : aantal straten: 254, totale lengte: 351878.49586428545
+        *   Kortste straat: 490631 Leuvenstraat afstand: 1.7754886612937077
+        *   langste straat: 442975 Blakstraat afstand: 727.422624982155
+   *  <Holsbeek> : aantal straten: 172, totale lengte: 305450.2260420762
+        *   Kortste straat: 91127 Putstraat afstand: 1.6582641510123888
+        *   langste straat: 428011 Langeveld afstand: 1008.9293035197186
+   *  <Kortenaken> : aantal straten: 127, totale lengte: 287452.35233744734
+        *   Kortste straat: 359783 Groenstraat afstand: 1.3414894698037982
+        *   langste straat: 369022 Halensebaan afstand: 767.6789138719895
+   *  <Landen> : aantal straten: 242, totale lengte: 311803.7878818771
+        *   Kortste straat: 295927 Bormansstraat afstand: 1.8580702373497933
+        *   langste straat: 263751 Ezemaalstraat afstand: 1032.2058867927958
+   *  <Leuven> : aantal straten: 1048, totale lengte: 1009946.8657314488
+        *   Kortste straat: 557306 Gemeentestraat afstand: 1.1092502001780908
+        *   langste straat: 1009747 Formatie afstand: 2109.463566371255
+   *  <Lubbeek> : aantal straten: 268, totale lengte: 422095.8060506326
+        *   Kortste straat: 490617 Minnezang afstand: 1.3293404377547142
+        *   langste straat: 454305 Broekstraat afstand: 882.3667702186588
+   *  <Oud-Heverlee> : aantal straten: 178, totale lengte: 258642.4455895675
+        *   Kortste straat: 524878 Maurits Noëstraat afstand: 1.2176013322274606
+        *   langste straat: 433332 Expresweg afstand: 1650.764664109501
+   *  <Rotselaar> : aantal straten: 254, totale lengte: 406435.04474664136
+        *   Kortste straat: 404138 Vijfde Liniestraat afstand: 3.0779020430474566
+        *   langste straat: 487265 Autosnelweg E314 afstand: 3452.1822234702613
+   *  <Tervuren> : aantal straten: 335, totale lengte: 422768.50391876796
+        *   Kortste straat: 453918 College van Luxemburglaan afstand: 1.3498018342848104
+        *   langste straat: 680950 Tervurenlaan afstand: 957.6572393789625
+   *  <Tienen> : aantal straten: 537, totale lengte: 719421.051459472
+        *   Kortste straat: 384303 Billighoutstraat afstand: 2.086458479800347
+        *   langste straat: 339470 Westelijke Ring afstand: 1376.1394909425148
+   *  <Tremelo> : aantal straten: 162, totale lengte: 294479.4974707061
+        *   Kortste straat: 1018571 Jan Boedtsstraat afstand: 2.0208734054321207
+        *   langste straat: 80118 Melkweg afstand: 460.5332793736769
+   *  <Zoutleeuw> : aantal straten: 155, totale lengte: 306771.4405793623
+        *   Kortste straat: 303470 Linterseweg afstand: 1.311642096519527
+        *   langste straat: 320017 Velmsebaan afstand: 1115.9498781709026
+   *  <Linter> : aantal straten: 108, totale lengte: 210794.43342966365
+        *   Kortste straat: 286649 Molenweg afstand: 1.2138138248488817
+        *   langste straat: 305041 Landenstraat afstand: 1251.4961040335565
+   *  <Scherpenheuvel-Zichem> : aantal straten: 294, totale lengte: 476402.78262950946
+        *   Kortste straat: 437337 Engelenberg afstand: 1.9606256662067896
+        *   langste straat: 390000 Frans Smeyersstraat afstand: 924.008435482464
+   *  <Glabbeek> : aantal straten: 87, totale lengte: 168311.38860867074
+        *   Kortste straat: 1003289 Langveldstraat afstand: 1.716218218618302
+        *   langste straat: 387065 Hoeledensesteenweg afstand: 966.7300856885354
+Straatinfo <West-Vlaanderen>
+   *  <Beernem> : aantal straten: 271, totale lengte: 575676.5803846543
+        *   Kortste straat: 941325 Wingene Steenweg afstand: 2.8492458664849933
+        *   langste straat: 1019874 Vossenpad afstand: 912.5742803924918
+   *  <Damme> : aantal straten: 250, totale lengte: 598137.7783252427
+        *   Kortste straat: 888278 Kerkweg afstand: 3.006798464214772
+        *   langste straat: 798572 Schipdonkvaart-Zuid afstand: 1993.8974278749627
+   *  <Jabbeke> : aantal straten: 223, totale lengte: 407029.9837774743
+        *   Kortste straat: 894083 Gistelsteenweg afstand: 1.1924671876488167
+        *   langste straat: 842688 Vaartdijk-Zuid afstand: 1448.5011492266103
+   *  <Oostkamp> : aantal straten: 402, totale lengte: 594833.0005362438
+        *   Kortste straat: 813245 Cijnsdreef afstand: 1.230254040004641
+        *   langste straat: 917385 Westdijk afstand: 1154.2217078562433
+   *  <Torhout> : aantal straten: 327, totale lengte: 405949.02998949564
+        *   Kortste straat: 901118 Ijzerstraat afstand: 1.4409920183325886
+        *   langste straat: 827171 Planterijdreef afstand: 911.8860480460241
+   *  <Zuienkerke> : aantal straten: 72, totale lengte: 215099.18624393016
+        *   Kortste straat: 975145 Kerkhofstraat afstand: 1.6480218451653683
+        *   langste straat: 1051514 Blauwetorenstraat afstand: 1294.2383699277623
+   *  <Knokke-Heist> : aantal straten: 618, totale lengte: 619402.8300110057
+        *   Kortste straat: 893775 Rustoordstraat afstand: 1.0951757794461885
+        *   langste straat: 218316 Internationale Dijk afstand: 1342.995404863661
+   *  <Diksmuide> : aantal straten: 372, totale lengte: 750824.8418285545
+        *   Kortste straat: 920179 Schorestraat afstand: 1.6649858794565702
+        *   langste straat: 836572 Boterdijk afstand: 1951.9425325889656
+   *  <Houthulst> : aantal straten: 173, totale lengte: 408588.28174979216
+        *   Kortste straat: 851590 Bosdreef afstand: 3.062984491329056
+        *   langste straat: 817255 19e-Liniestraat afstand: 1493.7300185219904
+   *  <Koekelare> : aantal straten: 167, totale lengte: 295233.52264974633
+        *   Kortste straat: 850143 Moerestraat afstand: 1.7851459352475791
+        *   langste straat: 909539 Speersweg afstand: 1067.5422648426204
+   *  <Kortemark> : aantal straten: 160, totale lengte: 389616.21626638103
+        *   Kortste straat: 791958 Oude Zeedijkstraat afstand: 1.1948757294131405
+        *   langste straat: 790984 Barisdamstraat afstand: 901.8531614538589
+   *  <Ieper> : aantal straten: 557, totale lengte: 1048573.6327447282
+        *   Kortste straat: 788317 Kapellestraat afstand: 1.0785480987092702
+        *   langste straat: 949308 Westkaaipad afstand: 2078.893129636507
+   *  <Mesen> : aantal straten: 24, totale lengte: 35466.146382171064
+        *   Kortste straat: 838101 Rijselstraat afstand: 5.902843802257437
+        *   langste straat: 828315 Nieuwkerkestraat afstand: 823.1415097447641
+   *  <Wervik> : aantal straten: 222, totale lengte: 390163.553312395
+        *   Kortste straat: 903190 Kapellestraat afstand: 1.2895227788892427
+        *   langste straat: 960800 Fobbestraat afstand: 1034.4545274953473
+   *  <Zonnebeke> : aantal straten: 185, totale lengte: 477161.20376241993
+        *   Kortste straat: 927748 Kasteelstraat afstand: 1.418289465997888
+        *   langste straat: 810592 Frezenbergstraat afstand: 1035.763643222213
+   *  <Heuvelland> : aantal straten: 235, totale lengte: 656348.4414571885
+        *   Kortste straat: 933959 Lokerstraat afstand: 1.1685379721579812
+        *   langste straat: 924935 Pont Malletstraat afstand: 1353.604657081104
+   *  <Vleteren> : aantal straten: 81, totale lengte: 221575.700344612
+        *   Kortste straat: 844022 Nieuwstraat afstand: 1.5420158915742492
+        *   langste straat: 815509 Zwijnlandstraat afstand: 1000.0224411994805
+   *  <Deerlijk> : aantal straten: 196, totale lengte: 223717.91527912684
+        *   Kortste straat: 839925 Vercruysse de Solartstraat afstand: 2.426208977939934
+        *   langste straat: 888867 Ringlaan afstand: 914.8333149731905
+   *  <Harelbeke> : aantal straten: 338, totale lengte: 389598.69712275104
+        *   Kortste straat: 230332 Masteluinstraat afstand: 1.4086720704588616
+        *   langste straat: 1037215 Jaagpad afstand: 1042.5778727532468
+   *  <Kortrijk> : aantal straten: 1207, totale lengte: 1196033.7928035588
+        *   Kortste straat: 799316 Zomertij afstand: 1.4418768969428677
+        *   langste straat: 810115 Ooievaarsnest afstand: 1058.8538562331917
+   *  <Kuurne> : aantal straten: 203, totale lengte: 163830.7565891774
+        *   Kortste straat: 867245 Beukenlaan afstand: 1.8453956198881818
+        *   langste straat: 914671 Jaagpad afstand: 795.7231367095337
+   *  <Lendelede> : aantal straten: 101, totale lengte: 129434.69906007325
+        *   Kortste straat: 1107791 Louis De Beerplein afstand: 4.395425318613127
+        *   langste straat: 828615 Kortrijksestraat afstand: 604.3782831560906
+   *  <Menen> : aantal straten: 357, totale lengte: 421745.80738678115
+        *   Kortste straat: 786196 Ijzerstraat afstand: 1.0565699200279408
+        *   langste straat: 833119 Oude Aalbekestraat afstand: 695.5995513106756
+   *  <Spiere-Helkijn> : aantal straten: 53, totale lengte: 73130.4208198284
+        *   Kortste straat: 798201 Pijpestraat afstand: 2.657041961754035
+        *   langste straat: 797350 Jacquetbosstraat afstand: 643.0789515784398
+   *  <Bredene> : aantal straten: 216, totale lengte: 206994.03557259782
+        *   Kortste straat: 794649 Breeweg afstand: 1.0229877803991343
+        *   langste straat: 1072833 Brugsesteenweg afstand: 983.669479912148
+   *  <Gistel> : aantal straten: 205, totale lengte: 308128.2310298769
+        *   Kortste straat: 845684 Steenbakkerstraat afstand: 1.7699742987997542
+        *   langste straat: 1084888 Waerevaartstraat afstand: 1265.6339203035277
+   *  <Middelkerke> : aantal straten: 320, totale lengte: 550171.671446581
+        *   Kortste straat: 793695 Alfred Madouxstraat afstand: 1.352081728298996
+        *   langste straat: 994026 Zeedijk afstand: 1884.7530187921807
+   *  <Oostende> : aantal straten: 755, totale lengte: 728772.3769708414
+        *   Kortste straat: 913350 Oud Vliegveld afstand: 1.0675289241181731
+        *   langste straat: 879550 Autoweg A 10 afstand: 3081.926891309517
+   *  <De Haan> : aantal straten: 311, totale lengte: 318846.502765632
+        *   Kortste straat: 1000259 Meerminpad afstand: 1.618831930458624
+        *   langste straat: 925314 Brugse Baan afstand: 1220.1978256481057
+   *  <Lichtervelde> : aantal straten: 138, totale lengte: 269992.16811043565
+        *   Kortste straat: 837096 Hogelaanstraat afstand: 1.4611125901956086
+        *   langste straat: 878520 Rijkenhoekstraat afstand: 886.4687285531948
+   *  <Moorslede> : aantal straten: 158, totale lengte: 309156.2809145817
+        *   Kortste straat: 860389 Dadizeelsestraat afstand: 2.3758091253036633
+        *   langste straat: 866476 Slypsstraat afstand: 845.0957005951664
+   *  <Roeselare> : aantal straten: 740, totale lengte: 920593.4149837185
+        *   Kortste straat: 902455 Blinde-Rodenbachstraat afstand: 1.1677007266035726
+        *   langste straat: 916562 R32 afstand: 2351.057403123096
+   *  <Staden> : aantal straten: 220, totale lengte: 387332.74815614894
+        *   Kortste straat: 841105 Colliemolenstraat afstand: 1.1491113922586813
+        *   langste straat: 1084296 Provinciebaan afstand: 985.3827445345033
+   *  <Meulebeke> : aantal straten: 169, totale lengte: 297250.80951853946
+        *   Kortste straat: 786286 Oude Paanderstraat afstand: 2.1680262942429387
+        *   langste straat: 803238 Maeneghemstraat afstand: 862.9712681502243
+   *  <Oostrozebeke> : aantal straten: 107, totale lengte: 176166.53017113762
+        *   Kortste straat: 957031 Ter Priemstraat afstand: 2.9978180405492756
+        *   langste straat: 887360 Kanaalweg afstand: 2483.2178609057187
+   *  <Pittem> : aantal straten: 134, totale lengte: 292289.4213106982
+        *   Kortste straat: 854023 Baertstraat afstand: 1.7421380534788427
+        *   langste straat: 920904 Ringlaan Robert De Paepe afstand: 1811.5512904237455
+   *  <Ruiselede> : aantal straten: 102, totale lengte: 240377.32244373363
+        *   Kortste straat: 845283 Wantestraat afstand: 1.0212369952675646
+        *   langste straat: 975186 Zandstraat afstand: 793.6754482946144
+   *  <Tielt> : aantal straten: 354, totale lengte: 563425.9489882864
+        *   Kortste straat: 808921 Poekestraat afstand: 2.0880874029063263
+        *   langste straat: 250477 Rijkegemkouterslag afstand: 1039.7404811771407
+   *  <Wielsbeke> : aantal straten: 142, totale lengte: 217080.05644593816
+        *   Kortste straat: 992165 Vaartstraat afstand: 2.4951591128251165
+        *   langste straat: 787563 Expresweg afstand: 809.0733604255623
+   *  <Ardooie> : aantal straten: 192, totale lengte: 335423.4201941815
+        *   Kortste straat: 907103 Oude Heirweg afstand: 1.4178928056663904
+        *   langste straat: 935111 Stratenmolenstraat afstand: 831.5560076563582
+   *  <De Panne> : aantal straten: 186, totale lengte: 237067.49021786687
+        *   Kortste straat: 853094 Wielewaalstraat afstand: 1.1717892301994735
+        *   langste straat: 940327 Molendam afstand: 1816.209730557074
+   *  <Koksijde> : aantal straten: 612, totale lengte: 561261.9973212524
+        *   Kortste straat: 802467 Witte Burg afstand: 1.0646323278318792
+        *   langste straat: 918227 Booitshoekestraat afstand: 1571.75096044654
+   *  <Nieuwpoort> : aantal straten: 175, totale lengte: 276994.6204709317
+        *   Kortste straat: 1082630 Westdiepweg afstand: 1.1934286164593821
+        *   langste straat: 967592 Hemmestraat afstand: 1208.9363621349273
+   *  <Veurne> : aantal straten: 260, totale lengte: 548002.7128466095
+        *   Kortste straat: 887906 Handelsstraat afstand: 1.8270949651872268
+        *   langste straat: 871950 Ringslotstraat afstand: 1675.9568779715464
+Straatinfo <Oost-Vlaanderen>
+   *  <Aalst> : aantal straten: 860, totale lengte: 943882.1816671584
+        *   Kortste straat: 622777 Molendreef afstand: 1.3817470817078652
+        *   langste straat: 600750 Autosnelweg Oostende-Brussel afstand: 6027.123590453882
+   *  <Denderleeuw> : aantal straten: 206, totale lengte: 173966.20140654128
+        *   Kortste straat: 1003491 Aststraat afstand: 3.4462012363871657
+        *   langste straat: 723125 Kloosterstraat afstand: 734.9732954485048
+   *  <Haaltert> : aantal straten: 164, totale lengte: 255341.3319343034
+        *   Kortste straat: 1042248 Holbeekweg afstand: 1.3134512144263326
+        *   langste straat: 597807 Terlinden afstand: 853.358296745828
+   *  <Herzele> : aantal straten: 189, totale lengte: 324368.7475757382
+        *   Kortste straat: 603407 Ledebergstraat afstand: 1.7756407355195523
+        *   langste straat: 592940 Bokstraat afstand: 952.7161245745317
+   *  <Lede> : aantal straten: 219, totale lengte: 259924.3460050416
+        *   Kortste straat: 728440 Poortendriesstraat afstand: 1.1530208139823466
+        *   langste straat: 669608 D'Heerselweg afstand: 635.9871980600165
+   *  <Ninove> : aantal straten: 449, totale lengte: 621162.5626532519
+        *   Kortste straat: 603726 Populierendreef afstand: 1.8296625379754168
+        *   langste straat: 758046 Expresweg afstand: 1924.7127868387877
+   *  <Sint-Lievens-Houtem> : aantal straten: 118, totale lengte: 189769.44636728213
+        *   Kortste straat: 174289 Sint-Lievensstraat afstand: 1.4353762600200612
+        *   langste straat: 603475 Nekkerstraat afstand: 880.140679165812
+   *  <Erpe-Mere> : aantal straten: 267, totale lengte: 374760.6293071966
+        *   Kortste straat: 738353 Lange Ommegangstraat afstand: 1.314426109950113
+        *   langste straat: 617268 Landries afstand: 825.7061343103034
+   *  <Berlare> : aantal straten: 222, totale lengte: 295518.2484192951
+        *   Kortste straat: 597096 Broekstraat afstand: 1.26191125186823
+        *   langste straat: 721930 Maanschijnlos afstand: 760.2774339846594
+   *  <Dendermonde> : aantal straten: 429, totale lengte: 586085.1194649318
+        *   Kortste straat: 704964 Hofstraat afstand: 1.4677772305792052
+        *   langste straat: 990804 Hoofdstraat afstand: 1073.4353680334077
+   *  <Hamme> : aantal straten: 282, totale lengte: 350350.3874722983
+        *   Kortste straat: 728078 Drapstraat afstand: 1.4383007330410051
+        *   langste straat: 674470 Natuurreservaat Schorren afstand: 1253.6450042164458
+   *  <Laarne> : aantal straten: 154, totale lengte: 307149.4164070102
+        *   Kortste straat: 770145 Brandemanstraat afstand: 1.136933594088187
+        *   langste straat: 600735 Autosnelweg E17 afstand: 7169.031097159443
+   *  <Lebbeke> : aantal straten: 174, totale lengte: 247115.62644857552
+        *   Kortste straat: 748147 Dorpswegel afstand: 1.6834004282964479
+        *   langste straat: 636869 Dammekensstraat afstand: 748.5987517683327
+   *  <Waasmunster> : aantal straten: 162, totale lengte: 262124.54244318634
+        *   Kortste straat: 607394 Gentstraat afstand: 1.4286693101125507
+        *   langste straat: 592492 Doornijkstraat afstand: 992.6140524001577
+   *  <Wetteren> : aantal straten: 288, totale lengte: 415110.06695734255
+        *   Kortste straat: 580970 Jabekestraat afstand: 1.110409832317762
+        *   langste straat: 1022018 Munitiepad afstand: 1035.5454958291837
+   *  <Wichelen> : aantal straten: 128, totale lengte: 172484.41975750992
+        *   Kortste straat: 772782 Ertbrugstraat afstand: 1.3759640264353672
+        *   langste straat: 596731 Pannekensweg afstand: 615.2047360434259
+   *  <Zele> : aantal straten: 221, totale lengte: 316780.00696423935
+        *   Kortste straat: 685822 Goeiende afstand: 1.3157279344843855
+        *   langste straat: 647923 Lokerenbeekstraat afstand: 1598.7478994023747
+   *  <Assenede> : aantal straten: 231, totale lengte: 497648.97414138046
+        *   Kortste straat: 598576 Noordstraat afstand: 2.0057641932561734
+        *   langste straat: 979979 Hazelarenhoek afstand: 1451.1825560350644
+   *  <Eeklo> : aantal straten: 300, totale lengte: 318398.57536131435
+        *   Kortste straat: 1055704 Ringlaan afstand: 2.3369112208080987
+        *   langste straat: 803975 Expresweg N49 afstand: 4391.51528265912
+   *  <Kaprijke> : aantal straten: 94, totale lengte: 177849.08521275214
+        *   Kortste straat: 976421 Heinestraat afstand: 1.8540819810134117
+        *   langste straat: 223104 Draailingpad afstand: 929.643008640894
+   *  <Sint-Laureins> : aantal straten: 167, totale lengte: 444672.67460436834
+        *   Kortste straat: 689693 Maagd van Gent afstand: 1.8049999997019768
+        *   langste straat: 791232 Kruispolderstraat afstand: 1249.916152764462
+   *  <Zelzate> : aantal straten: 163, totale lengte: 220560.36339795063
+        *   Kortste straat: 648468 Franz Wittoucklaan afstand: 3.1389966490767494
+        *   langste straat: 596788 Expressweg afstand: 2836.969904620021
+   *  <Aalter> : aantal straten: 0, totale lengte: 0
+        *   Kortste straat: 0  afstand: 1000000
+        *   langste straat: 0  afstand: 0
+   *  <Deinze> : aantal straten: 0, totale lengte: 0
+        *   Kortste straat: 0  afstand: 1000000
+        *   langste straat: 0  afstand: 0
+   *  <De Pinte> : aantal straten: 193, totale lengte: 239324.0096602621
+        *   Kortste straat: 581570 Vlierstraat afstand: 1.283894465247375
+        *   langste straat: 628583 Oude Gentweg afstand: 1055.8112653329795
+   *  <Gavere> : aantal straten: 171, totale lengte: 279966.30330010207
+        *   Kortste straat: 633549 Munkbosstraat afstand: 0.9265425004662738
+        *   langste straat: 580131 Hullestraat afstand: 931.69812457085
+   *  <Gent> : aantal straten: 2841, totale lengte: 2567574.4376915493
+        *   Kortste straat: 1088919 Koningin Maria Hendrikaplein afstand: 1.1468310942986322
+        *   langste straat: 771540 John Kennedylaan afstand: 2461.5084107424555
+   *  <Knesselare> : aantal straten: 0, totale lengte: 0
+        *   Kortste straat: 0  afstand: 1000000
+        *   langste straat: 0  afstand: 0
+   *  <Lochristi> : aantal straten: 244, totale lengte: 425591.0337615576
+        *   Kortste straat: 636720 Bochtenstraat afstand: 1.9704814151027232
+        *   langste straat: 601150 Ledeakkerstraat afstand: 662.4418797390488
+   *  <Melle> : aantal straten: 143, totale lengte: 177376.49413882568
+        *   Kortste straat: 653136 Petegemstraat afstand: 1.6643082649305334
+        *   langste straat: 783450 Langemunt afstand: 713.6498565205075
+   *  <Merelbeke> : aantal straten: 320, totale lengte: 399440.93233902944
+        *   Kortste straat: 582951 Zink afstand: 1.0467941539811016
+        *   langste straat: 606245 Trekweg afstand: 1741.906892727475
+   *  <Moerbeke> : aantal straten: 104, totale lengte: 224133.33149930747
+        *   Kortste straat: 632483 Eksaardsedam afstand: 1.8790415135933267
+        *   langste straat: 706670 Expressweg afstand: 2472.5638517627694
+   *  <Nazareth> : aantal straten: 165, totale lengte: 346433.55895145034
+        *   Kortste straat: 920141 Hanestraat afstand: 2.164765344008079
+        *   langste straat: 813327 Scheldeoever afstand: 1321.3640780105413
+   *  <Nevele> : aantal straten: 0, totale lengte: 0
+        *   Kortste straat: 0  afstand: 1000000
+        *   langste straat: 0  afstand: 0
+   *  <Oosterzele> : aantal straten: 181, totale lengte: 325088.74463860935
+        *   Kortste straat: 772093 Dorp afstand: 1.0703242472420513
+        *   langste straat: 1060067 Geraardsbergse steenweg afstand: 1024.456001894989
+   *  <Sint-Martens-Latem> : aantal straten: 146, totale lengte: 195931.64184426493
+        *   Kortste straat: 825937 Heidebergen afstand: 1.824205306604469
+        *   langste straat: 796255 Langs de Spoorweg afstand: 746.89283479628
+   *  <Waarschoot> : aantal straten: 0, totale lengte: 0
+        *   Kortste straat: 0  afstand: 1000000
+        *   langste straat: 0  afstand: 0
+   *  <Wachtebeke> : aantal straten: 117, totale lengte: 223563.27043379445
+        *   Kortste straat: 601505 Santvoordtdam afstand: 3.101507372308769
+        *   langste straat: 719491 Rotdam afstand: 1878.5778360223733
+   *  <Zulte> : aantal straten: 217, totale lengte: 375198.2892547327
+        *   Kortste straat: 864705 Moerbeekstraat afstand: 3.204379032799568
+        *   langste straat: 831322 Leie Linkeroever afstand: 897.9162389478665
+   *  <Kruishoutem> : aantal straten: 0, totale lengte: 0
+        *   Kortste straat: 0  afstand: 1000000
+        *   langste straat: 0  afstand: 0
+   *  <Oudenaarde> : aantal straten: 468, totale lengte: 693200.0634491462
+        *   Kortste straat: 855241 Wolfabriekstraat afstand: 1.497345984032517
+        *   langste straat: 1083685 Westerring afstand: 1209.9442487551908
+   *  <Ronse> : aantal straten: 320, totale lengte: 373707.9765468568
+        *   Kortste straat: 813736 Scheldekouter afstand: 1.1293723928070454
+        *   langste straat: 890098 Paillartcamp afstand: 738.8585473387386
+   *  <Brakel> : aantal straten: 315, totale lengte: 490159.17064160766
+        *   Kortste straat: 576020 Molenhoekstraat afstand: 1.0634815476634132
+        *   langste straat: 744899 Koestraat afstand: 1085.6085999772292
+   *  <Horebeke> : aantal straten: 63, totale lengte: 87337.51036302067
+        *   Kortste straat: 757042 Bosstraat afstand: 2.6105641120872822
+        *   langste straat: 585192 Den Daele afstand: 772.6491038015381
+   *  <Lierde> : aantal straten: 79, totale lengte: 166554.93803446862
+        *   Kortste straat: 576290 Haltbaan afstand: 3.0989811244001264
+        *   langste straat: 616837 Brugstraat afstand: 1038.6479209590952
+   *  <Maarkedal> : aantal straten: 185, totale lengte: 347576.27899502555
+        *   Kortste straat: 879177 Nederholbeekstraat afstand: 1.0439621642720525
+        *   langste straat: 891396 Boelaardstraat afstand: 1231.5839161570661
+   *  <Zwalm> : aantal straten: 148, totale lengte: 298189.4299370282
+        *   Kortste straat: 579406 Stationsstraat afstand: 3.303794941790397
+        *   langste straat: 591675 Hembeke afstand: 1134.0790916231867
+   *  <Beveren> : aantal straten: 561, totale lengte: 1063589.215696547
+        *   Kortste straat: 412532 Scheldemolenstraat afstand: 1.340877324035563
+        *   langste straat: 528277 E17 afstand: 3231.8398681478375
+   *  <Kruibeke> : aantal straten: 221, totale lengte: 271823.49445432663
+        *   Kortste straat: 510824 Schoolstraat afstand: 1.8315952030801301
+        *   langste straat: 74839 Kreekdijk afstand: 1038.3190143066556
+   *  <Lokeren> : aantal straten: 462, totale lengte: 618819.5676843879
+        *   Kortste straat: 663174 Nieuwe Baan afstand: 1.3804528239595908
+        *   langste straat: 608931 Kaaswinkeldreef afstand: 1705.7228591426967
+   *  <Sint-Gillis-Waas> : aantal straten: 235, totale lengte: 430259.38628362236
+        *   Kortste straat: 552319 Margrietstraat afstand: 1.0706726827384192
+        *   langste straat: 426835 Lange Nieuwstraat afstand: 1593.4822064463626
+   *  <Sint-Niklaas> : aantal straten: 575, totale lengte: 832163.6000708425
+        *   Kortste straat: 1075528 Weimanstraat afstand: 0.9681100956866227
+        *   langste straat: 1046222 Stationswegel afstand: 1098.2299962069765
+   *  <Stekene> : aantal straten: 190, totale lengte: 362999.0658361395
+        *   Kortste straat: 630690 Vlasrootstraat afstand: 2.5262171307691985
+        *   langste straat: 623131 Westakker afstand: 1690.8016155148007
+   *  <Temse> : aantal straten: 312, totale lengte: 395621.26976836746
+        *   Kortste straat: 442085 Iepenlaan afstand: 1.4850000001257286
+        *   langste straat: 1050512 Nieuwe Steenweg afstand: 1543.7862417456383
+   *  <Deinze> : aantal straten: 716, totale lengte: 1229895.4801686879
+        *   Kortste straat: 879147 Molenkouterslag afstand: 2.263483377278091
+        *   langste straat: 810754 Leieoever afstand: 1903.969679851836
+   *  <Aalter> : aantal straten: 438, totale lengte: 892315.2604643069
+        *   Kortste straat: 850704 Kouter afstand: 1.5582310489095879
+        *   langste straat: 815220 Knokkebaan afstand: 1462.4613914014558
+   *  <Kruisem> : aantal straten: 322, totale lengte: 703803.7199012446
+        *   Kortste straat: 958157 Reutelstraat afstand: 2.1437728450901123
+        *   langste straat: 832744 Autosnelweg E17 afstand: 5850.06143154513
+Straatinfo <>
